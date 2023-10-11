@@ -1,6 +1,6 @@
 # Learned-Index-structures
-The Data sets: Linear, sorted array
+The data sets: Linear, sorted array, normal distribution, exponential  
 
-Evaluating Regression models: Linear, Polynomial, Nearest neighbors, Decision tree, Gaussian 
+The regression models: Linear, Polynomial, Nearest neighbors, Decision tree, Gaussian 
 
 Plots: Histogram that displays the sum of distances of the predictions to the actual places  
