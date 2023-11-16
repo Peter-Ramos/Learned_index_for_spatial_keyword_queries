@@ -1,5 +1,5 @@
 # Learned-Index-structures
-The data sets: Linear, sorted array, normal distribution, exponential  
+The current data sets: Linear, sorted array, normal distribution, exponential  
 
 The regression models: Linear, Polynomial, Nearest neighbors, Decision tree, Gaussian 
 
