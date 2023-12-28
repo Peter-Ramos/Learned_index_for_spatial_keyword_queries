@@ -1,6 +1,2 @@
 # Learned-Index-structures
-The current data sets: Linear, sorted array, normal distribution, exponential  
-
-The regression models: Linear, Polynomial, Nearest neighbors, Decision tree, Gaussian 
-
-Plots: Histograms that displays the accuracy of the predictions 
+We create a learned inde structure that learns from spatial and textural information in order to minimize the proccessing cost for a known query workload  
